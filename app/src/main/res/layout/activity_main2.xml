@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/foto2"
+    tools:context=".MainActivity2">
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IDENTITAS GURU"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="30sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NAMA: ARIFUDIN ZAKARIA S.pd, M.pd"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NIP: 197901132009031001"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ALAMAT: KARANGSARI RT 06 RW 03 KEC.KARANGTENGAH "
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PROVINSI: JAWA TENGAH"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TANGGAL LAHIR: Kudus ,13 Januari 1979"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="nama istri:Intan Dwi Hafsah"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PEKERJAAN: Guru Agama "
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lulusan: S1 di IAIN Salatiga "
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lulusan : S2 di STAIN Kudus"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_margin="10sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No: 087833936040"
+        android:gravity="center_horizontal"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="italic"/>
+
+
+</LinearLayout>
