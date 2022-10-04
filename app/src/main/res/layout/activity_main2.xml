@@ -18,6 +18,11 @@
         android:textSize="30sp"
         android:textStyle="bold"/>
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="185dp"
+        android:src="@drawable/fotoo" />
+
     <TextView
         android:layout_margin="10dp"
         android:layout_width="match_parent"
@@ -48,15 +53,6 @@
         android:textSize="22sp"
         android:textStyle="italic"/>
 
-    <TextView
-        android:layout_margin="10dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="PROVINSI: JAWA TENGAH"
-        android:gravity="center_horizontal"
-        android:textColor="#000"
-        android:textSize="22sp"
-        android:textStyle="italic"/>
 
     <TextView
         android:layout_margin="10sp"
@@ -68,15 +64,6 @@
         android:textSize="22sp"
         android:textStyle="italic"/>
 
-    <TextView
-        android:layout_margin="10sp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="nama istri:Intan Dwi Hafsah"
-        android:gravity="center_horizontal"
-        android:textColor="#000"
-        android:textSize="22sp"
-        android:textStyle="italic"/>
 
     <TextView
         android:layout_margin="10sp"
@@ -92,31 +79,22 @@
         android:layout_margin="10sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Lulusan: S1 di IAIN Salatiga "
-        android:gravity="center_horizontal"
-        android:textColor="#000"
-        android:textSize="22sp"
-        android:textStyle="italic"/>
-
-    <TextView
-        android:layout_margin="10sp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Lulusan : S2 di STAIN Kudus"
-        android:gravity="center_horizontal"
-        android:textColor="#000"
-        android:textSize="22sp"
-        android:textStyle="italic"/>
-
-    <TextView
-        android:layout_margin="10sp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:text="No: 087833936040"
         android:gravity="center_horizontal"
         android:textColor="#000"
         android:textSize="22sp"
         android:textStyle="italic"/>
+
+    <Button
+        android:id="@+id/btnrequestguru"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="PROFIL GURU"
+        android:textColor="#000"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
 
 
 </LinearLayout>
